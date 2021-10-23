@@ -1,5 +1,7 @@
 # Word Count
 
+Please note: I wrote the word_count.cpp and word_count.h files. I did not write word_count_test.cpp file. Thanks, Walt
+
 Welcome to Word Count on Exercism's C++ Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
